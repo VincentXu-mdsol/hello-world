@@ -1,4 +1,2 @@
 # hello-world
-This is my test file 
-Derpity derp
-Hello again
+This test file is different.
